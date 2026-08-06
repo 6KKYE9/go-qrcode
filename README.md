@@ -1,6 +1,6 @@
 # go-qrcode
 
-二维码生成器，标准库实现，把文本/URL 编码成二维码打印到终端。
+二维码生成器，把文本/URL 编码成二维码打印到终端。
 
 ```powershell
 go run . -text "https://example.com"

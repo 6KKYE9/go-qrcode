@@ -1,6 +1,6 @@
-// go-qrcode 是一个零依赖的二维码生成器，把文本/URL 编码成 QR 码并打印到终端。
+// go-qrcode 是二维码生成器，把文本/URL 编码成 QR 码并打印到终端。
 // 仅实现字节模式 + L 级纠错，足以应付短链接、文本、WiFi 等常见场景。
-// 参考 ISO/IEC 18004 的 Reed-Solomon 与位流规范，纯标准库实现。
+// 参考 ISO/IEC 18004 的 Reed-Solomon 与位流规范。
 package main
 
 import (

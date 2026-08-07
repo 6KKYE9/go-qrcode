@@ -1,3 +1,5 @@
 ﻿go-qrcode.exe
 go-qrcode
 *.exe
+
+_*.txt

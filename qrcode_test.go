@@ -218,4 +218,3 @@ func TestMatrixHasFinderPatterns(t *testing.T) {
 		t.Fatal("固定黑模块 (size-8,8) 应为深色")
 	}
 }
-
